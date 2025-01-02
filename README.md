@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="left">👋 Hi! My name is Utkarsh Sharma<br>I'm from Delhi and graduated from Guru Gobind Singh Indraprastha University and am currently pursuing MBA (Data Science and Artificial Intelligence) and am seeking new opportunities. 🚀📊<br>I thrive off of being a data analyst, and currently I'm a fresher and I'm working upon my skills stuff.🌟📈</h3>
+<h3 align="center">👋 Hi! My name is Utkarsh Sharma<br>I'm from Delhi and graduated from Guru Gobind Singh Indraprastha University and am currently pursuing MBA (Data Science and Artificial Intelligence) and am seeking new opportunities. 🚀📊<br>I thrive off of being a data analyst, and currently I'm a fresher and I'm working upon my skills stuff.🌟📈</h3>
 
 ###
 
@@ -14,13 +14,7 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
